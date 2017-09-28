@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <CheckBox
+            android:id="@+id/cb_fruit_01"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/fruitset_01" />
+        <CheckBox
+            android:id="@+id/cb_fruit_02"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/fruitset_02" />
+        <CheckBox
+            android:id="@+id/cb_fruit_03"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/fruitset_03" />
+        <Switch
+            android:id="@+id/switch1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/fruitset_04" />
+    </LinearLayout>
+
+</LinearLayout>

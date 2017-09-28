@@ -2,4 +2,8 @@
     <string name="app_name">FroodyGo</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
+    <string name="fruitset_01">Fallobst</string>
+    <string name="fruitset_02">Handreichweite</string>
+    <string name="fruitset_03">Pflücker</string>
+    <string name="fruitset_04">Nur Reife Früchte</string>
 </resources>
